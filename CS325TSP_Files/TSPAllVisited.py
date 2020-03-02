@@ -98,5 +98,5 @@ def check_match(list_a, list_b):
 			
 	return problems
 
-#if __name__ == '__main__':
-	#main(sys.argv[1], sys.argv[2])
+if __name__ == '__main__':
+	main(sys.argv[1], sys.argv[2])
